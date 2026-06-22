@@ -1,4 +1,3 @@
-import java.lang.*;
 public class HarryAge {
     public static void main(String[] args) {
         int birthYear = 2000;
