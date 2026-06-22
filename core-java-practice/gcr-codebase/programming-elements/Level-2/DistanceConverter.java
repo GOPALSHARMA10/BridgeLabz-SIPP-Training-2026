@@ -1,8 +1,3 @@
-package core-java-practice.gcr-codebase.programming-elements.Level-2;
-
-public class DistanceConverter {
-    
-}
 import java.util.Scanner;
 
 public class DistanceConverter {
